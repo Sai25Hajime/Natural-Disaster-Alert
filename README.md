@@ -21,6 +21,6 @@ A Java-based application that provides real-time alerts for natural disasters, e
    java DisasterAlert
    
 ## 👩‍💻 Contributors
-Saileen Fernandes (@Sai25Hajime)
+Saileen Fernandes (@Sai25Hajime)(https://github.com/Sai25Hajime)
 
 Yohan Mavely (@BlueLightningWizard)
