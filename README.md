@@ -22,4 +22,5 @@ A Java-based application that provides real-time alerts for natural disasters, e
    
 ## 👩‍💻 Contributors
 Saileen Fernandes (@Sai25Hajime)
+
 Yohan Mavely (@BlueLightningWizard)
