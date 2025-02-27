@@ -20,7 +20,7 @@ A Java-based application that provides real-time alerts for natural disasters, e
    javac DisasterAlert.java  
    java DisasterAlert
    
-## 👩‍💻 Contributors
-Saileen Fernandes (@Sai25Hajime)(https://github.com/Sai25Hajime)
-
-Yohan Mavely (@BlueLightningWizard)
+## 👩‍💻 Contributors  
+- [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
+  
+- [Yohan Mavely (@BlueLightningWizard)](https://github.com/BlueLightningWizard)  
