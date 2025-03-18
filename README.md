@@ -27,7 +27,7 @@ A Java-based application that provides real-time alerts for natural disasters, e
 ![Screenshot 2025-02-18 070918](https://github.com/user-attachments/assets/bbbf7680-d413-4cc0-b857-043a7b9c42c2)
 ![Screenshot 2025-02-18 070924](https://github.com/user-attachments/assets/fe3e0de0-c831-4283-855b-88803e698425)
 
-## 👩‍💻 Contributors  
+## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
   
 - [Yohan Mavely (@BlueLightningWizard)](https://github.com/BlueLightningWizard)  
