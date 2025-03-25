@@ -16,7 +16,7 @@ A Java-based application that provides real-time alerts for natural disasters, e
    git clone https://github.com/Sai25Hajime/Natural-Disaster-Alert.git
    cd Natural-Disaster-Alert
 2. Compile and run the Java application:
-   
+   ```bash
    javac DisasterAlert.java  
    java DisasterAlert
    
